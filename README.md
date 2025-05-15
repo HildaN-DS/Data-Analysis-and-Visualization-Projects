@@ -3,8 +3,9 @@
 Welcome to my repository of data analysis and visualization projects, where I explore real-world datasets to **uncover patterns**, **draw insights**, and **tell data-driven stories** using Python, Pandas, Matplotlib, and Seaborn.
 
 ## 📚 Projects
+*Click on the project title to view my projects!* 🙂
 
-### 1. 🌍 [The Euro's Journey Through Global Events]()
+### 1. 🌍 [The Euro's Journey Through Global Events](https://github.com/HildaN-DS/Data-Analysis-and-Visualization-Projects/blob/main/The%20Euro's%20Journey%20Through%20Global%20Events.ipynb)
 This project analyzes how the Euro's exchange rate responded to major global events:
 
 - **2008 Global Financial Crisis**
