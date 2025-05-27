@@ -12,5 +12,9 @@ This project analyzes how the Euro's exchange rate responded to major global eve
 - **2016–2020 Brexit & Trump Era**
 - **2020–2022 COVID-19 Pandemic**
 
+#### 📚 Tools & Libraries:
+- Python (Pandas, NumPy)
+- Matplotlib, Seaborn  
+
 By examining the Euro's performance against key currencies (USD, GBP, INR, JPY, CHF, CNY), the analysis reveals how market sentiment, policy decisions, and geopolitical shifts influence exchange rates.
 
